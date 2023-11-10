@@ -1,0 +1,38 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.container {
+   
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  
+  h1 {
+    text-align: center;
+    color: rgb(165, 107, 53);
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #8a6a6a;
+    border-radius: 29px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(100, 100, 199);
+    color: rgb(43, 10, 10);
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }

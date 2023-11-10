@@ -9,7 +9,7 @@ html{
 }
 
 .banner{
-    width: auto;
+    width: 90%;
     height: auto;
    background-image: linear-gradient(120deg, rgba(88, 50, 155, 0.267),rgba(93, 52, 165, 0.329)),url(1a.avif);
     background-size: cover;

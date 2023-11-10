@@ -73,7 +73,7 @@ button{
     font-size: 45px;
     line-height: 30px;
     margin: 20px 0 30px;
-    height: auto;
+    
 }
 .banner-text input{
     width: 100%;
@@ -102,7 +102,7 @@ button{
     padding: 50px 0 0;
     box-sizing: border-box;
     margin: auto;
-    height:auto;
+
 }
 h2{
     color: #535353;

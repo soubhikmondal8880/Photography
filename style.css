@@ -22,7 +22,7 @@ html{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height:auto;
+    
 }
 .logo{
     flex-basis: 15%;
@@ -66,7 +66,7 @@ button{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    height: auto;
+    
 
 }
 }
